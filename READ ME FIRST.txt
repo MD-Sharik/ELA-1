@@ -1,0 +1,110 @@
+# ELA-1 Voice Assistant
+
+ELA is created by geekcoder55 for learning purpose, it designed in python for everyone :)
+
+## Table of Contents
+
+- [Project Description](#project-description)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Project Description
+
+ELA-1 Voice Assistant:
+
+ELA-1 is an intelligent voice assistant created by GeekCoder55 as a Python learning project. It is designed to provide a wide range of functionalities and assist users in performing various tasks through voice commands.
+
+Key Features:
+
+Voice Recognition: ELA-1 leverages advanced speech recognition technology to accurately understand and interpret user commands.
+Natural Language Processing: The voice assistant utilizes natural language processing techniques to comprehend user queries and generate appropriate responses.
+Task Automation: ELA-1 can automate routine tasks such as opening youtube, gmail, google or search wikipedia, or play video on youtube allowing users to be more efficient and productive.
+Modularity: The project follows a modular design, making it easy to add new features and extend its capabilities with additional functionality.
+
+
+Installation:
+
+To install and run ELA-1 on your local machine, follow these steps:
+
+(I have put .exe file for non coders to run ELA-1 and .py file for coders to modify codes for thier preferences)
+
+1. Clone the repository: git clone https://github.com/GeekCoder55/ELA-1.git or simply download as zip
+
+2. IF requered Install the required dependencies: pip install -r requirements.txt (if u dont know what to do, just use .exe file)
+
+3. just double click on .py or exe file to run (right now it has no interface to make sure if its running... but if the ELA-1 activates means its running)
+
+
+
+
+## Features
+
+ELA-1 is designed to help you in saving time for most obvius and regular tasks like opening your favourite website or play songs while you play your favourite games!
+
+ELA-1 can understand English of any accent.
+
+It take almost neglibigle space in your disk and also have super low memory consuption.
+
+## Installation
+
+Provide instructions on how to install and set up your project. Include any dependencies or prerequisites that need to be installed.
+
+
+Usage:
+
+After successfully setting up ELA-1, you can interact with the voice assistant using voice commands. 
+
+WHO ARE YOU: Ela will introduce herself
+
+OPEN GOOGLE: she  Open google on new tab
+
+OPEN GMAIL: she  Open gmail on new tab
+
+OPEN YOUTUBE: open youtube on new tab
+
+OPEN TWITCH: open twitch on new tab
+
+OPEN MEET: open google meet on new tab
+
+SEARCH: search any website on internet by its perfect address  (Play "web address here")
+example: search "facebook.com"  (Note: u need to tell the exact address like .com in this case its not just search"facebook" instead its search"facebook.com")
+example 2: search "amazon.com" (need full address not just "amazon")
+(note: here after saying "SEARCH" wait for Ela to confirm, it will speak the responce like "web address please" and then request for any website)
+
+
+PLAY: play anything on "youtube specifically"  (Play "your request on youtube")
+example: play "dinamyte by bts"  (wait for some seconds then it will run the song)
+
+WIKIPEDIA: "according to wikipedia" (if u wanna search wikipedia then use this command)
+example: "who is abraham lincoln according to wikipedia" or "according to wikipedia who is elon musk"
+
+TIME: just say time and ela will tell the time
+example: simply say "time"
+
+GOOD: u can commend ELA for her hardwork :)
+
+
+## Contributing
+
+Thank you for considering contributing to this project! Contributions are welcome and encouraged. You can contribute in several ways:
+
+- **Reporting issues**: If you encounter any bugs or issues, please report them by creating a new issue.
+
+- **Pull requests**: If you want to contribute directly to the codebase, you can submit a pull request. We appreciate well-documented and well-tested contributions.
+
+Please note that By participating, you are expected to uphold the code of conduct. We strive to maintain a respectful and inclusive community.
+
+If you have any questions or need further guidance, please feel free to reach out by creating an issue or contacting us directly at [md.sharik5012@gmail.com].
+
+We value and appreciate your contributions. Together, we can make this project even better!
+
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). 
+
+You are free to use, modify, and distribute this software for any purpose. Please refer to the [LICENSE](LICENSE) file for more details.
+
