@@ -29,14 +29,12 @@ Installation:
 
 To install and run ELA-1 on your local machine, follow these steps:
 
-(I have put .exe file for non coders to run ELA-1 and .py file for coders to modify codes for thier preferences)
 
 1. Clone the repository: git clone https://github.com/GeekCoder55/ELA-1.git or simply download as zip
 
-2. IF requered Install the required dependencies: pip install -r requirements.txt (if u dont know what to do, just use .exe file)
+2. IF required Install the required dependencies: pip install -r requirements.txt (if u dont know what to do, just use .exe file)
 
-3. just double click on .py or exe file to run (right now it has no interface to make sure if its running... but if the ELA-1 activates means its running)
-
+3. just double click on ELA.pyw file to run (right now it has no interface to make sure if its running... but if the ELA-1 activates means its running)
 
 
 
@@ -48,9 +46,6 @@ ELA-1 can understand English of any accent.
 
 It take almost neglibigle space in your disk and also have super low memory consuption.
 
-## Installation
-
-Provide instructions on how to install and set up your project. Include any dependencies or prerequisites that need to be installed.
 
 
 Usage:
