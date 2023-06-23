@@ -1,13 +1,12 @@
 import pyttsx3
 import datetime
 import os
-
 import query as query
 import speech_recognition as sr
 import wikipedia
-
-
 import webbrowser
+import pywhatkit
+
 engine = pyttsx3.init('sapi5')
 voices = engine.getProperty('voices')
 newvoicerate = 150
@@ -139,6 +138,11 @@ if __name__ == '__main__':
             pspath = "C:\\Program Files\\Adobe\\Adobe Photoshop 2022\\Photoshop.exe"
             os.startfile(pspath)
             speak("opening photoshop")
+
+        elif 'play' in query:
+            speak("playing")
+            query = query.replace("play","")
+            pywhatkit.playonyt(query)
 
         elif 'illustrator' in query:
             AIpath = "C:\\Program Files\\Adobe\\Adobe Illustrator 2022\\Support Files\\Contents\\Windows\\Illustrator.exe"
