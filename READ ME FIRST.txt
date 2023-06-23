@@ -1,6 +1,6 @@
 # ELA-1 Voice Assistant
 
-ELA is created by geekcoder55 for learning purpose, it designed in python for everyone :)
+ELA is created by MD-Sharik for learning purpose, it designed in python for everyone :)
 
 ## Table of Contents
 
@@ -30,9 +30,9 @@ Installation:
 To install and run ELA-1 on your local machine, follow these steps:
 
 
-1. Clone the repository: git clone https://github.com/GeekCoder55/ELA-1.git or simply download as zip
+1. Clone the repository: git clone https://github.com/GeekCoder55/ELA-1.git or simply download as zip ( I have added the ELA-1 setup in 4 parts just extract them)
 
-2. IF required Install the required dependencies: pip install -r requirements.txt (if u dont know what to do, just use .exe file)
+2. Install the required dependencies: pip install -r requirements.txt (if u dont know what to do, just use .exe file)
 
 3. just double click on ELA.pyw file to run (right now it has no interface to make sure if its running... but if the ELA-1 activates means its running)
 
