@@ -1,0 +1,22 @@
+hello every, the modules we need to run ELA-1 are:
+
+1. "PYTTSX3" module
+ex: -pip install pyttsx3
+
+2. "SPEECHRECOGNITION" module
+ex: -pip install speechrecognition
+
+3. "wikipedia" module
+ex: -pip install wikipedia
+
+4. "pywhatkit" module
+ex: -pip install pywhatkit
+
+5. "pyaudio" module
+ex: -pip install pyaudio
+
+6. "query" module
+ex: -pip install query
+
+7. "webbrowser" module
+ex: -pip install webbrowser
